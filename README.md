@@ -7,6 +7,9 @@ Plan 완료 시 이 문서를 수정하여 [ ]를 [x]로 변경해주세요 :)
 	- 생성 후 계정을 알려주시면 이 Repository에 권한을 추가해드립니다 :)
 - [ ] Python 설치하기 ([링크](https://wikidocs.net/8) 참조)
 - [ ] Python 프로그램 작성을 위한 에디터 선택하기 ([링크](https://wikidocs.net/17684)의 **'추천 에디터'** 참조)
+- [ ] SourceTree 설치하기 ([링크](https://devjjo.tistory.com/24) 참조)
+- [ ] Github 협업 튜토리얼을 똑같이 따라서 토끼와 거북이(+너구리) 프로젝트를 만들어 보기
+	- 단, 각자의 이름으로 폴더를 생성하여 진행합니다 :)
 
 
 ## ellie
