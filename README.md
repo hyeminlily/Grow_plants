@@ -38,7 +38,7 @@ Plan 완료 시 이 문서를 수정하여 [ ]를 [x]로 변경해주세요 :)
 - [x] **가장 최신**의 master branch에서 각자의 branch 생성하기
 	- branch 명은 **날짜_영어이름** 으로 통일합니다 ex) 191020_lily
 - [x] Visual Studio Code를 열고 저장소 내 **'Task_html'** 폴더를 **'Open Folder'** 기능으로 열어서 작업 환경 구성하기
-- [ ] [링크](http://tcpschool.com/html/intro) 의 HTML 기초 지식 습득하기
+- [x] [링크](http://tcpschool.com/html/intro) 의 HTML 기초 지식 습득하기
 	- **6. HTML 확장** 의 **25) HTML과 자바스크립트** 까지 빠르게 훑으며 읽어도 충분합니다 :)
 	- 단, 시간적 여유가 가능하신 분들은 예제 코딩연습을 따라하며 공부하시면 더욱 좋습니다!
 - [ ] **'Task_html'** 폴더에 위치한 예제 파일 및 동영상을 참고하여 html 웹 페이지 만들어보기
