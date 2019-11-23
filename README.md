@@ -41,7 +41,7 @@ Plan 완료 시 이 문서를 수정하여 [ ]를 [x]로 변경해주세요 :)
 - [x] [링크](http://tcpschool.com/html/intro) 의 HTML 기초 지식 습득하기
 	- **6. HTML 확장** 의 **25) HTML과 자바스크립트** 까지 빠르게 훑으며 읽어도 충분합니다 :)
 	- 단, 시간적 여유가 가능하신 분들은 예제 코딩연습을 따라하며 공부하시면 더욱 좋습니다!
-- [ ] **'Task_html'** 폴더에 위치한 예제 파일 및 동영상을 참고하여 html 웹 페이지 만들어보기
+- [ **'Task_html'** 폴더에 위치한 예제 파일 및 동영상을 참고하여 html 웹 페이지 만들어보기
 	- html 파일명은 위에서 생성한 branch 명과 동일하게 설정합니다 ex) 191020_lily.html
 - [ ] SourceTree에서 변경사항 commit 후 pull request 생성하기
 	- pull request 생성시 remote branch는 생성한 각자의 branch와 동일하게 설정합니다
