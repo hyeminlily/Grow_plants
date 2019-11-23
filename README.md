@@ -35,7 +35,7 @@ Plan 완료 시 이 문서를 수정하여 [ ]를 [x]로 변경해주세요 :)
 
 
 ## Hilda
-- [ ] **가장 최신**의 master branch에서 각자의 branch 생성하기
+- [x] **가장 최신**의 master branch에서 각자의 branch 생성하기
 	- branch 명은 **날짜_영어이름** 으로 통일합니다 ex) 191020_lily
 - [ ] Visual Studio Code를 열고 저장소 내 **'Task_html'** 폴더를 **'Open Folder'** 기능으로 열어서 작업 환경 구성하기
 - [ ] [링크](http://tcpschool.com/html/intro) 의 HTML 기초 지식 습득하기
