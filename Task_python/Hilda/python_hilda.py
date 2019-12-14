@@ -49,8 +49,6 @@ t2=(4,)
 
 
 #9번
-a = dict('name':'python', 'a':'python', '[1]':'python', '250':'python')
-print(a['name'])
 
 
 
