@@ -1,2 +1,0 @@
-hi = "hi"
-print(hi)
