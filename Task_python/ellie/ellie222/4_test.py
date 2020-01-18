@@ -7,5 +7,3 @@ def is_odd(a) :
         return False
 
 is_odd(3)
-
-
